@@ -2,7 +2,7 @@
 ---
 
 ## 📌 Linear Regression Health Costs Calculator  
-👉 **README.md** (Copy Entire Block)
+👉 **README.md** 
 
 ```md
 
@@ -61,4 +61,5 @@ Generates scatter plot comparing:
 
 ## 👤 Author
 **Aniket Khandare**
+
 
